@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{13A97FF8-3807-465C-B57D-02C221A9963E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adresses.API", "src\ConsultaCep.API\Adresses.API.csproj", "{FEFB911F-963D-477A-BB09-EF26AC42F1F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adresses.API", "src\Adresses.API\Adresses.API.csproj", "{EC2FD1FB-445D-4043-B96B-A562DCAF2155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FEFB911F-963D-477A-BB09-EF26AC42F1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEFB911F-963D-477A-BB09-EF26AC42F1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEFB911F-963D-477A-BB09-EF26AC42F1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEFB911F-963D-477A-BB09-EF26AC42F1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2FD1FB-445D-4043-B96B-A562DCAF2155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2FD1FB-445D-4043-B96B-A562DCAF2155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2FD1FB-445D-4043-B96B-A562DCAF2155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2FD1FB-445D-4043-B96B-A562DCAF2155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{FEFB911F-963D-477A-BB09-EF26AC42F1F7} = {13A97FF8-3807-465C-B57D-02C221A9963E}
+		{EC2FD1FB-445D-4043-B96B-A562DCAF2155} = {13A97FF8-3807-465C-B57D-02C221A9963E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {52CC4CA8-A1F8-468C-8075-FC39B02C69FB}
