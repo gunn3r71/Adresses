@@ -10,9 +10,9 @@ namespace ConsultaCep.API.Controllers
     {
         private readonly AdressesService _adressesService;
 
-        public AdressesController(AdressesService consultaCepService)
+        public AdressesController(AdressesService adressesService)
         {
-            _adressesService = consultaCepService;
+            _adressesService = adressesService;
         }
 
         [HttpGet("zipcode/{zipcode:length(8)}")]
